@@ -1,1 +1,1 @@
-attiny85 led PWM clapper
+Personal home lighting system project
